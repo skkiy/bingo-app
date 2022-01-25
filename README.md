@@ -1,5 +1,6 @@
-## 概要
+## 表示
 
+<img width="623" alt="スクリーンショット 2022-01-25 14 40 45" src="https://user-images.githubusercontent.com/60517078/150918110-84255d8c-70fb-4200-9213-5a4f3abf48a1.png">
 
 ## 感想
 
@@ -19,8 +20,15 @@
 [
   [1, 2, 3, 4, 5],
   [16, 17, 18, 19, 20],
+  [31, 32, 0, 34, 35],
+  [46, 47, 48, 49, 50],
+  [61, 62, 63, 64, 65],
 ]
 [
+  [false, false, false, false, false],
+  [false, false, false, false, false],
+  [false, false, true, false, false],
+  [false, false, false, false, false],
   [false, false, false, false, false],
 ]
 ```
